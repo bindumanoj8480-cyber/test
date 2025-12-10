@@ -1,0 +1,13 @@
+# requirements.txt
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+mlflow
+ucimlrepo
+fastapi
+uvicorn
+pydantic
+prometheus_client
